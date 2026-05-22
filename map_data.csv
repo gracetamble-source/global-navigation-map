@@ -1,0 +1,55 @@
+country_name,country_code,tier_4plus_share,tier_4plus_pop,slug
+Angola,AGO,0.1137,3803860,angola
+Botswana,BWA,0.0473,112045,botswana
+Congo,COD,0.0309,2965815,congo
+Djibouti,DJI,0.161,177830,djibouti
+Ethiopia,ETH,0.0113,1338870,ethiopia
+Gambia,GMB,0.0426,107210,gambia
+Liberia,LBR,0.0315,161955,liberia
+Madagascar,MDG,0.0037,108560,madagascar
+Mauritius,MUS,0.157,201505,mauritius
+Nigeria,NGA,0.0336,7187310,nigeria
+Sierra Leone,SLE,0.0256,202645,sierra-leone
+Swaziland,SWZ,0.0206,24475,swaziland
+Tunisia,TUN,0.1753,2098905,tunisia
+Zambia,ZMB,0.0629,1198860,zambia
+Burundi,BDI,0.006,75935,burundi
+Central African Republic,CAF,0.0048,23870,central-african-republic
+Congo,COG,0.1574,905375,congo
+Algeria,DZA,0.1822,8025065,algeria
+Gabon,GAB,0.1015,235720,gabon
+Guinea-Bissau,GNB,0.0377,75860,guinea-bissau
+Libya,LBY,0.1329,936440,libya
+Mali,MLI,0.0062,134940,mali
+Malawi,MWI,0.0069,135030,malawi
+Rwanda,RWA,0.0142,185670,rwanda
+Somalia,SOM,0.0225,374670,somalia
+Seychelles,SYC,0.0914,10990,seychelles
+Tanzania,TZA,0.0158,959855,tanzania
+Zimbabwe,ZWE,0.0104,161385,zimbabwe
+Benin,BEN,0.0236,307760,benin
+Cote d'Ivoire,CIV,0.0677,1958995,cote-divoire
+Comoros,COM,0.0259,20790,comoros
+Egypt,EGY,0.23,25140850,egypt
+Ghana,GHA,0.11,3509530,ghana
+Equatorial Guinea,GNQ,0.157,269450,equatorial-guinea
+Lesotho,LSO,0.0116,26045,lesotho
+Mozambique,MOZ,0.029,894190,mozambique
+Namibia,NAM,0.054,147320,namibia
+Sudan,SDN,0.0437,2043615,sudan
+South Sudan,SSD,0.0042,44585,south-sudan
+Chad,TCD,0.0024,41690,chad
+Uganda,UGA,0.0064,284300,uganda
+Burkina Faso,BFA,0.0097,208940,burkina-faso
+Cameroon,CMR,0.0338,884315,cameroon
+Cape Verde,CPV,0.0194,9970,cape-verde
+Eritrea,ERI,0.0025,8245,eritrea
+Guinea,GIN,0.0179,240445,guinea
+Kenya,KEN,0.0243,1268560,kenya
+Morocco,MAR,0.0791,2893380,morocco
+Mauritania,MRT,0.0468,215215,mauritania
+Niger,NER,0.0088,210470,niger
+Senegal,SEN,0.0409,687795,senegal
+Sao Tome and Principe,STP,0.0543,11815,sao-tome-and-principe
+Togo,TGO,0.0426,369455,togo
+South Africa,ZAF,0.1632,9881565,south-africa

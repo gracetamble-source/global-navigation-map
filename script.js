@@ -298,7 +298,7 @@ function drawLegend() {
 
   const legend = svg.append("g")
     .attr("class", "legend")
-    .attr("transform", "translate(55, 430)");
+    .attr("transform", "translate(55, 400)");
 
   legend.append("text")
     .attr("class", "legend-title")

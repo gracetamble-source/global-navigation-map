@@ -1,6 +1,11 @@
 const svg = d3.select("svg");
-const width = +svg.attr("width");
-const height = +svg.attr("height");
+
+const width = 900;
+const height = 640;
+
+svg
+  .attr("viewBox", `0 0 ${width} ${height}`)
+  .attr("preserveAspectRatio", "xMidYMid meet");
 
 const tooltip = d3.select(".tooltip");
 
@@ -293,7 +298,7 @@ function drawLegend() {
 
   const legend = svg.append("g")
     .attr("class", "legend")
-    .attr("transform", "translate(50, 455)");
+    .attr("transform", "translate(55, 430)");
 
   legend.append("text")
     .attr("class", "legend-title")

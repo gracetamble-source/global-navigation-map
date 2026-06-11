@@ -5,9 +5,9 @@ const height = +svg.attr("height");
 const tooltip = d3.select(".tooltip");
 
 const projection = d3.geoNaturalEarth1()
-  .center([20, 2])
-  .scale(360)
-  .translate([width / 2, height / 2 + 30]);
+  .center([22, -5])
+  .scale(340)
+  .translate([width / 2, height / 2 - 10]);
 
 const path = d3.geoPath().projection(projection);
 

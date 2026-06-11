@@ -11,8 +11,8 @@ const tooltip = d3.select(".tooltip");
 
 const projection = d3.geoNaturalEarth1()
   .center([22, -5])
-  .scale(340)
-  .translate([width / 2, height / 2 - 10]);
+  .scale(325)
+  .translate([width / 2, height / 2 - 35]);
 
 const path = d3.geoPath().projection(projection);
 
@@ -298,7 +298,7 @@ function drawLegend() {
 
   const legend = svg.append("g")
     .attr("class", "legend")
-    .attr("transform", "translate(55, 400)");
+    .attr("transform", "translate(55, 300)");
 
   legend.append("text")
     .attr("class", "legend-title")
